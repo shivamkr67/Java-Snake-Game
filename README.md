@@ -1,4 +1,8 @@
 # Java Snake Game 🐍
+## Preview
+
+![Snake Game Screenshot](snake.png)
+
 
 A real-time Snake Game built using Java Swing and AWT.
 
